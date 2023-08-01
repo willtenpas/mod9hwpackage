@@ -1,0 +1,16 @@
+test_1_add_book (__main__.BookLoverTest)
+test if book in list ... ok
+test_2_add_book (__main__.BookLoverTest)
+add book twice ... ok
+test_3_has_read (__main__.BookLoverTest)
+check list for book ... ok
+test_4_has_read (__main__.BookLoverTest)
+check for book in list ... ok
+test_5_num_books_read (__main__.BookLoverTest)
+Check books read is correct ... ok
+test_6_fav_books (__main__.BookLoverTest) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.016s
+
+OK
